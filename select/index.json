@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LiSA『ReawakeR  』（from LiVE is Smile Always～RiP SERViCE～）",
+  "base_artist": "LiSA",
+  "createdAt": "2025-12-23T09:26:06.895790Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lisa Listen",
+      "artist": "Lisa Loeb",
+      "has_synced": false,
+      "path": "select/pl_01_Lisa_Listen_Lisa_Loeb.txt"
+    }
+  ]
+}
